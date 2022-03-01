@@ -12,7 +12,7 @@ skills:
   - Python
 ---
 
-Hello! Interestingly, I got introduced to programming in my freshman year at [Birla Institute Of Technology,  Mesra](https://www.bitmesra.ac.in/) where I completed my Bachelors in Computer Science and Engineering (2016-2020) with [86.3% aggregate](https://drive.google.com/file/d/1G4UBPBP0mvWZLRdkF_EcpmKKGp7_OA8U/view?usp=sharing).
+Hello! Interestingly, I got introduced to programming in my freshwoman year at [Birla Institute Of Technology,  Mesra](https://www.bitmesra.ac.in/) where I completed my Bachelors in Computer Science and Engineering (2016-2020) with [86.3% aggregate](https://drive.google.com/file/d/1G4UBPBP0mvWZLRdkF_EcpmKKGp7_OA8U/view?usp=sharing).
 
 I'm currently working as a developer for **Bell Canada** in the Amdocs Digital Delivery unit. My responsibilty includes Java/Spring based microservices development & testing. 
 
