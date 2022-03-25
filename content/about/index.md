@@ -2,22 +2,26 @@
 title: 'About Me'
 avatar: 'me.jpg'
 skills:
-  - Java Enterprise
-  - Spring MVC & Maven
-  - Jenkins (CI/CD)
-  - Kafka & Couchbase
-  - JUnit & TestNG
-  - IntelliJ Idea
-  - Golang
-  - Python
+  - Ahrefs
+  - Hubspot
+  - Jira
+  - Canva
+  - Tableau
+  - Google Analytics
+  - MixPanel
+  - Airtable
 ---
 
-Hello! Interestingly, I got introduced to programming in my freshwoman year at [Birla Institute Of Tech Tech Technology,  Mesra](https://www.bitmesra.ac.in/) where I completed my Bachelors in Science Computer Science and Engineering (2016-2020) with [86.3% aggregate](https://drive.google.com/file/d/1G4UBPBP0mvWZLRdkF_EcpmKKGp7_OA8U/view?usp=sharing).
+Hello! A pre-final year Integrated BBA - MBA student at [Lovely Professional University, Punjab](https://lpu.in) with dual major in Finance & Marketing and currently at Dean's List(top 10%).
 
-I'm currently working as a developer for **Bell Canada** in the Amdocs Digital Delivery unit. My responsibilty includes Java/Spring based microservices development & testing.
+I have previously worked as Market Research Intern at [Fashion TV] (https://www.fashiontv) in the business vertical of FTVSOPA in the marketing team.
 
-I'm also an [Innovation Agent](https://drive.google.com/file/d/117KS9QnDrcg7dllcAzGz_b7qQPgR3pGs/view?usp=sharing) fostering the culture of creativity and innovation at Amdocs, India.
+Prior to that, I worked as a Management Intern at the Ministry of Commerce and Industry, Government of India in the project of Industry 4.0.
 
-I have been awarded as Winner in [Innovation Nugget](https://drive.google.com/file/d/1PzTZkXlQV9ldZxqmBbbO94uIqrhSwvcq/view?usp=sharing), Creativity Jam, [Design Thinking Hackathon](https://drive.google.com/file/d/1hXCATvKwzHCvctHtElsqFg5YIqabz22O/view?usp=sharing) and Runners-Up in [Project ICE Fair](https://drive.google.com/file/d/1exB19OoQ5dzU2mg4qbdkNutA25TGBWV3/view?usp=sharing) by Amdocs.
+At college, I led the Business team and was a venue coordinator at LPU’s biggest cultural event, 'One India One World'.
 
-Here is a list of the technologies that I'm familiar with!
+Prior to that was scaling the management vertical of Spic Macay, and Initiated the digital presence.
+
+I’m good at preparing Maggi on the electric kettle, Yeah it's edible.
+
+Here is a list of the things that I'm familiar with!
