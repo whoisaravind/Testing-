@@ -7,7 +7,7 @@ tech:
   - Social Justice
   - Equality
   - Last Name
-showInProjects: false
+showInProjects: true
 ---
 
 Nowhere is the power of a name greater than in India — a nation home to hundreds of ethnicities and adherents of all the world’s major religions. A place where caste divisions still permeate society.

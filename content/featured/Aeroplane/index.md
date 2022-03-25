@@ -9,7 +9,7 @@ tech:
   - Analytics
   - Bootstrap
 
-showInProjects: false
+showInProjects: true
 ---
 
 Designed and published dashboards on Tableau for Airplane Departure Delay, state-wise diverted flights.
