@@ -2,7 +2,6 @@
 date: '2021-11-09'
 title: 'Airport and Airplane Delay'
 cover: 'demo1.png'
-github: 'https://public.tableau.com/app/profile/aravindnk/viz/AirportsDelayCauses/MajorAirportDelays#1u.com/app/profile/aravindnk/viz/AirportsDelayCauses/MajorAirportDelays#1'
 external: 'https://public.tableau.com/app/profile/aravindnk/viz/AirportsDelayCauses/MajorAirportDelays#1u.com/app/profile/aravindnk/viz/AirportsDelayCauses/MajorAirportDelays#1'
 tech:
   - Tableau

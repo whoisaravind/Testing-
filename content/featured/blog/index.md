@@ -2,7 +2,6 @@
 date: '2021-11-08'
 title: 'Why Don’t Tamil People Have Last Names?'
 cover: 'bot.png'
-github: 'https://medium.com/@aravindnk/why-dont-tamil-people-have-last-names-2d15a6490abc'
 external: 'https://medium.com/@aravindnk/why-dont-tamil-people-have-last-names-2d15a6490abc'
 tech:
   - Social Justice
