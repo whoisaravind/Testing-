@@ -7,7 +7,7 @@ tech:
   - MixPanel
   - Product Analytics
   - Business Analytics
-showInProjects: true
+showInProjects: false
 ---
 
 Created a real-time dashboard on Mixpanel to track, analyze, and display the KPI of 'Rando Sandos', an online sandwich ordering firm in New York, US by analyzing the Acquisition and Retention metrics.
