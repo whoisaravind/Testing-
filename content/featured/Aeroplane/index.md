@@ -1,16 +1,16 @@
 ---
-date: '1'
-title: 'Caim Consulting'
+date: '2'
+title: 'Airport and Airplane Delay'
 cover: 'demo1.png'
-github: 'https://github.com/caimconsulting/caim-consulting-website'
-external: 'https://caimconsulting.in/'
+external: 'https://public.tableau.com/app/profile/aravindnk/viz/AirportsDelayCauses/MajorAirportDelays#1u.com/app/profile/aravindnk/viz/AirportsDelayCauses/MajorAirportDelays#1'
 tech:
-  - HTML
-  - CSS
-  - Javascript
+  - Tableau
+  - Data Visualization
+  - Analytics
   - Bootstrap
 
 showInProjects: true
 ---
 
-Collaborated with the [Developer Team](https://caimconsulting.in/developers/?) to develop the front-end and deploy the website on Heroku for a pro-bono legal startup [Caim Consulting](https://caimconsulting.in/).
+Designed and published dashboards on Tableau for Airplane Departure Delay, state-wise diverted flights.
+Created the reports for Delay Causes on Major Airport Departure in both North & South American airports.
