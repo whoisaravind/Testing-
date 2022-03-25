@@ -12,16 +12,14 @@ skills:
   - Airtable
 ---
 
-Hello! A pre-final year Integrated BBA - MBA student at [Lovely Professional University, Punjab](https://lpu.in) with dual major in Finance & Marketing and currently at Dean's List(top 10%).
+Hello! I have previously worked as Market Research Intern at [Fashion TV](https://www.fashiontv) in the business vertical of FTV SOPA in the marketing team.
 
-I have previously worked as Market Research Intern at [Fashion TV] (https://www.fashiontv) in the business vertical of FTVSOPA in the marketing team.
+Prior to that, I worked as a Management Intern at the [NPC, Government of India](https://www.npcindia.gov.in/) in thes project of Industry 4.0.
 
-Prior to that, I worked as a Management Intern at the Ministry of Commerce and Industry, Government of India in the project of Industry 4.0.
+At college, I led the Business team and was a venue coordinator at LPU’s biggest cultural event, [One India One World](https://happenings.lpu.in/results-of-one-india-one-world-2019/).
 
-At college, I led the Business team and was a venue coordinator at LPU’s biggest cultural event, 'One India One World'.
+Prior to that was scaling the management vertical of [Spic Macay](https://spicmacaylpu.wixsite.com/website), and Initiated the digital presence.
 
-Prior to that was scaling the management vertical of Spic Macay, and Initiated the digital presence.
-
-I’m good at preparing Maggi on the electric kettle, Yeah it's edible.
+I’m good at preparing **Maggi** on the electric kettle, Yeah it's edible.
 
 Here is a list of the things that I'm familiar with!
