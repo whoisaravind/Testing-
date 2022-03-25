@@ -1,5 +1,5 @@
 ---
-date: '2020-07-30'
+date: '2021-07-07'
 title: 'Management Intern'
 company: 'NPC, Gov of India'
 range: 'August 2021 - September 2021'
