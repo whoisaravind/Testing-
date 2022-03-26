@@ -1,12 +1,10 @@
 ---
 title: 'Hello World! My name is'
-name: 'Chandrika Deb'
+name: 'Aravindhan N'
 subtitle: 'I love exploring new things!'
 buttonText: 'Hire Me!'
 ---
 
-I'm an India based developer with a goal-driven creative mindset and passion for learning and innovating.
+A man with common sense, curious mind, and general awareness. Understanding People and their requirements have been one of my most promising skills. I am fascinated by how dots connect to form the complete picture.
 
-Currently working as a Software Engineering Associate at [Amdocs](https://www.amdocs.com/) and as a Freelance Content Writer for [Pepper Content](https://www.peppercontent.io).
-
-Outside work, I occasionally blog on [Medium](https://chandrikadeb7.medium.com/) or create amateur #PureCSS [Codepen](https://codepen.io/chandrikadeb7). Off-screen, I sketch my thoughts [here](https://pin.it/4W1Rxtj)!
+A pre-final year Integrated BBA - MBA student at [Lovely Professional University, Punjab](https://lpu.in) with dual major in Finance & Marketing and at Dean's List(top 10%) with 7.2 CGPA.

@@ -2,22 +2,24 @@
 title: 'About Me'
 avatar: 'me.jpg'
 skills:
-  - Java Enterprise
-  - Spring MVC & Maven
-  - Jenkins (CI/CD)
-  - Kafka & Couchbase
-  - JUnit & TestNG
-  - IntelliJ Idea
-  - Golang
-  - Python
+  - Ahrefs
+  - Hubspot
+  - Jira
+  - Canva
+  - Tableau
+  - Google Analytics
+  - MixPanel
+  - Airtable
 ---
 
-Hello! Interestingly, I got introduced to programming in my freshwoman year at [Birla Institute Of Technology,  Mesra](https://www.bitmesra.ac.in/) where I completed my Bachelors in Computer Science and Engineering (2016-2020) with [86.3% aggregate](https://drive.google.com/file/d/1G4UBPBP0mvWZLRdkF_EcpmKKGp7_OA8U/view?usp=sharing).
+Hello! I have previously worked as Market Research Intern at [Fashion TV](https://www.fashiontv) in the business vertical of FTV SOPA in the marketing team.
 
-I'm currently working as a developer for **Bell Canada** in the Amdocs Digital Delivery unit. My responsibilty includes Java/Spring based microservices development & testing. 
+Prior to that, I worked as a Management Intern at the [NPC, Government of India](https://www.npcindia.gov.in/) in thes project of Industry 4.0.
 
-I'm also an [Innovation Agent](https://drive.google.com/file/d/117KS9QnDrcg7dllcAzGz_b7qQPgR3pGs/view?usp=sharing) fostering the culture of creativity and innovation at Amdocs, India.
+At college, I led the Business team and was a venue coordinator at LPU’s biggest cultural event, [One India One World](https://happenings.lpu.in/results-of-one-india-one-world-2019/).
 
-I have been awarded as Winner in [Innovation Nugget](https://drive.google.com/file/d/1PzTZkXlQV9ldZxqmBbbO94uIqrhSwvcq/view?usp=sharing), Creativity Jam, [Design Thinking Hackathon](https://drive.google.com/file/d/1hXCATvKwzHCvctHtElsqFg5YIqabz22O/view?usp=sharing) and Runners-Up in [Project ICE Fair](https://drive.google.com/file/d/1exB19OoQ5dzU2mg4qbdkNutA25TGBWV3/view?usp=sharing) by Amdocs.
+Prior to that was scaling the management vertical of [Spic Macay](https://spicmacaylpu.wixsite.com/website), and Initiated the digital presence.
 
-Here is a list of the technologies that I'm familiar with!
+I’m good at preparing **Maggi** on the electric kettle, Yeah it's edible.
+
+Here is a list of the things that I'm familiar with!
