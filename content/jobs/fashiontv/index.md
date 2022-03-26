@@ -10,4 +10,4 @@ url: 'https://www.fashiontv.com'
 
 - Worked on secondary research data analysis. Experience with segmentation, concepts, and A/B testing.
 
-- Produce compelling data visualizations using Statista, Typeform, Tableau, and other market research tools.
+- Produce compelling data visualizations using Tableau, Airtable, Mixpanel and collected data using Statista, Typeform and other market research tools.
